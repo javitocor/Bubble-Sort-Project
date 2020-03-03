@@ -2,8 +2,6 @@
 
 > Bubble Sort Methods
 
-![screenshot](./screenshot.jpeg)
-
 This Is Bubble Sort Method using Ruby
 
 ## Built With

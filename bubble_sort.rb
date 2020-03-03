@@ -28,5 +28,5 @@ def bubble_sort_by(array)
             end
         end
     end
-    puts array
+    return array
 end
